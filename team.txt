@@ -1,0 +1,83 @@
+  <!-- team 2 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/2.png" alt="Ikhsan" />
+          </div>
+          <div class="text-team">
+            <h5>M. Ikhsan Kamal</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>   
+
+        <!-- team 3 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/3.png" alt="fuad" />
+          </div>
+          <div class="text-team">
+            <h5>Ahmad Fuad</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>   
+
+        <!-- team 4 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/4.png" alt="Fauzi" />
+          </div>
+          <div class="text-team">
+            <h5>Fauzi Firjatullah</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>  
+
+        <!-- team 5 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/5.png" alt="Roby" />
+          </div>
+          <div class="text-team">
+            <h5>Roby Purba</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>    
+
+        <!-- team 6 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/6.png" alt="RIki" />
+          </div>
+          <div class="text-team">
+            <h5>Riki Septiana</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>    
+
+        <!-- team 7 -->
+        <div class="team swiper-slide">
+          <div class="img-team">
+            <img src="img/team/7.png" alt="Lusi" />
+          </div>
+          <div class="text-team">
+            <h5>Lusi Tsulutsiah</h5>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi vero quasi adipisci velit obcaecati libero omnis. Amet debitis animi rerum.</p>
+          </div>
+          <div class="view-team">
+            <a href="#">View Profile</a>
+          </div>
+        </div>
